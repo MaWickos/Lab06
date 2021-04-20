@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab06</string>
+
+    <!-- Wyświetlane nazwy -->
+    <string name="tekstStanMagazynu">  </string>
+    <string name="tekstJednostka"> kg </string>
+    <string name="przyciskSkladuj"> SKLADUJ </string>
+    <string name="przyciskWydaj"> WYDAJ </string>
+
+</resources>
